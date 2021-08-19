@@ -1,0 +1,13 @@
+.counter{
+    font-size: "100px";
+    background-color: #282c34;
+    border-radius: "20px";
+}
+
+.button{
+  font-size: "100px";
+  color: white;
+  font-style: italic;
+  background-color: darkblue;
+  border-radius: "15px";
+}
